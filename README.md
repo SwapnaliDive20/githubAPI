@@ -6,3 +6,5 @@ Steps to Run
 2. cd githubAPI
 3. npm install
 4. npm run start
+
+NOTE : Make sure your mongodb is up and running
